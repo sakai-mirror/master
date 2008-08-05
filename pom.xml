@@ -5,7 +5,7 @@
 	<artifactId>master</artifactId>
 	<packaging>pom</packaging>
 	<name>Sakai Master</name>
-	<version>M2</version>
+	<version>2.5.2</version>
 	<organization>
 		<name>Sakai Project</name>
 		<url>http://sakaiproject.org/</url>
@@ -74,7 +74,7 @@
 	</scm>
 
 	<properties>
-		<sakai.version>M2</sakai.version>
+		<sakai.version>2.5.2</sakai.version>
 		<sakai.plugin.version>2.2</sakai.plugin.version>
 		<sakai.spring.groupId>org.springframework</sakai.spring.groupId>
 		<sakai.spring.artifactId>spring</sakai.spring.artifactId>
@@ -1127,7 +1127,7 @@
 				<inherited>true</inherited>
 				<groupId>org.sakaiproject.maven.plugins</groupId>
 				<artifactId>sakai</artifactId>
-				<version>M2</version>
+				<version>2.5.2</version>
 				<extensions>true</extensions>
 				<configuration>
 					<deployDirectory>
