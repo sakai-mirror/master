@@ -1041,6 +1041,16 @@ This is not needed now that pluto have been released
                <javadocDir>apidocs</javadocDir>
             </configuration>
          </plugin>
+         <!-- taglib jar generator -->
+		<plugin>
+			<groupId>net.sourceforge.maven-taglib</groupId>
+			<artifactId>maven-taglib-plugin</artifactId>
+			<configuration>
+				<goalPrefix>taglib</goalPrefix>
+				<taglib.src.dir>src</taglib.src.dir>
+				<!-- <taglib.src.dir>src/webapp/WEB-INF</taglib.src.dir> -->
+			</configuration>
+		</plugin>   
       </plugins>
    </reporting>
 
