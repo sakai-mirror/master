@@ -194,7 +194,7 @@ This is not needed now that pluto have been released
       </dependency>
       <dependency>
         <groupId>org.sakaiproject.msgcntr</groupId>
-        <artifactId>messageforums-assembly</artifactId>
+        <artifactId>sakai-messageforums-assembly</artifactId>
         <version>${sakai.msgcntr.version}</version>
         <classifier>tomcat-overlay</classifier>
         <type>zip</type>
