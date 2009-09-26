@@ -202,7 +202,7 @@ This is not needed now that pluto have been released
       </dependency>
       <dependency>
         <groupId>org.sakaiproject.sitestats</groupId>
-        <artifactId>sakai-sitestats-assembly</artifactId>
+        <artifactId>sitestats-assembly</artifactId>
         <version>${sakai.sitestats.version}</version>
         <classifier>tomcat-overlay</classifier>
         <type>zip</type>
@@ -855,7 +855,7 @@ This is not needed now that pluto have been released
       </dependency>
       <dependency>
         <groupId>org.sakaiproject.sitestats</groupId>
-        <artifactId>sakai-sitestats-api</artifactId>
+        <artifactId>sitestats-api</artifactId>
         <version>${sakai.sitestats.version}</version>
         <scope>provided</scope>
       </dependency>
