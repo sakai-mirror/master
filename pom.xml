@@ -84,10 +84,7 @@
     <sakai.pluto.version>1.1.2</sakai.pluto.version>
     <sakai.jcr.version>1.0</sakai.jcr.version>
     <sakai.generic-dao.version>0.9.1</sakai.generic-dao.version>
-    <sakai.entitybroker.version>1.3.6-SNAPSHOT</sakai.entitybroker.version>
-    <sakai.emailtemplateservice.version>0.3-SNAPSHOT</sakai.emailtemplateservice.version>
     <sakai.kernel.version>1.0.11</sakai.kernel.version>
-    <sakai.polls.version>1.1.1</sakai.polls.version>
   </properties>
   <distributionManagement>
     <repository>
