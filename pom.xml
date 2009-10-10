@@ -85,6 +85,7 @@
     <sakai.jcr.version>1.0</sakai.jcr.version>
     <sakai.generic-dao.version>0.9.1</sakai.generic-dao.version>
     <sakai.kernel.version>1.0.11</sakai.kernel.version>
+    
   </properties>
   <distributionManagement>
     <repository>
@@ -760,7 +761,7 @@ This is not needed now that pluto have been released
       <dependency>
         <groupId>org.sakaiproject</groupId>
         <artifactId>sakai-poll-logic-api</artifactId>
-        <version>${sakai.version}</version>
+        <version>1.1.1</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
