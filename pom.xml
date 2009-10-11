@@ -701,7 +701,7 @@ This is not needed now that pluto have been released
 		</groupId>
 		<artifactId>emailtemplateservice-api
 		</artifactId>
-		<version>0.3-SNAPSHOT</version>
+		<version>0.3.1</version>
 		<scope>provided</scope>
 	</dependency>
       <dependency>
