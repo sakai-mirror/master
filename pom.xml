@@ -85,7 +85,7 @@
     <sakai.jcr.version>1.0</sakai.jcr.version>
     <sakai.generic-dao.version>0.9.1</sakai.generic-dao.version>
     <sakai.entitybroker.version>1.3.6.1</sakai.entitybroker.version>
-    <sakai.kernel.version>1.0.11</sakai.kernel.version>
+    <sakai.kernel.version>1.0.12</sakai.kernel.version>
     
   </properties>
   <distributionManagement>
