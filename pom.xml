@@ -65,8 +65,11 @@
     </licenses>
     
     <scm>
+        <connection>scm:svn:https://source.sakaiproject.org/svn/master/branches/sakai-2.7.x</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/master/branches/sakai-2.7.x</developerConnection>
+        <url>https://source.sakaiproject.org/svn/master/branches/sakai-2.7.x</url>
     </scm>
-    
+
     <properties>
         <sakai.version>2.7.0-SNAPSHOT</sakai.version>
         <sakai.kernel.version>1.1.0-beta04-SNAPSHOT</sakai.kernel.version>
