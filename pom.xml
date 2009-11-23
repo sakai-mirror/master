@@ -156,7 +156,6 @@ This is not needed now that pluto have been released
       </snapshots>
     </repository>
 -->
-<!--
     <repository>
       <id>apache-repo</id>
       <name>apache-repo</name>
@@ -166,7 +165,6 @@ This is not needed now that pluto have been released
         <enabled>false</enabled>
       </snapshots>
     </repository>
--->
   </repositories>
   <dependencyManagement>
     <dependencies>
