@@ -291,6 +291,13 @@
                 <type>zip</type>
             </dependency>
             <dependency>
+                <groupId>org.sakaiproject.polls</groupId>
+                <artifactId>polls-assembly</artifactId>
+                <version>${sakai.polls.version}</version>
+                <classifier>tomcat-overlay</classifier>
+                <type>zip</type>
+            </dependency>
+            <dependency>
                 <groupId>org.sakaiproject.profile</groupId>
                 <artifactId>profile-assembly</artifactId>
                 <version>${sakai.profile.version}</version>
@@ -868,8 +875,8 @@
                 <scope>provided</scope>
             </dependency>
             <dependency>
-                <groupId>org.sakaiproject</groupId>
-                <artifactId>poll-api</artifactId>
+                <groupId>org.sakaiproject.polls</groupId>
+                <artifactId>polls-api</artifactId>
                 <version>${sakai.polls.version}</version>
                 <scope>provided</scope>
             </dependency>
