@@ -96,7 +96,7 @@
         <!-- Sakai modules that are versioned separately -->
         <sakai.basiclti.version>1.0.0-b01</sakai.basiclti.version>
         <sakai.common.version>1.0.0-b02</sakai.common.version>
-        <sakai.edu-services.version>1.0.0-b03</sakai.edu-services.version>
+        <sakai.edu-services.version>1.0.0-b02</sakai.edu-services.version>
         <sakai.ets.version>0.4.0</sakai.ets.version>
         <sakai.entitybroker.version>1.3.7</sakai.entitybroker.version>
         <sakai.jsf.version>2.7.0-M1</sakai.jsf.version>
