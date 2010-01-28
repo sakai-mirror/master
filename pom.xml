@@ -1079,5 +1079,13 @@ This is not needed now that pluto have been released
         </configuration>
       </plugin>
     </plugins>
+    <!-- Required for Dav -->
+     <extensions>
+         <extension>
+         <groupId>org.apache.maven.wagon</groupId>
+         <artifactId>wagon-webdav</artifactId>
+             <version>1.0-beta-2</version>
+         </extension>
+     </extensions>
   </build>
 </project>
