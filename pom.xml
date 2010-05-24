@@ -71,7 +71,7 @@
     </scm>
 
     <properties>
-        <sakai.version>2.7-SNAPSHOT</sakai.version>
+        <sakai.version>2.7.0</sakai.version>
         <sakai.kernel.version>1.1.8</sakai.kernel.version>
         <!-- Standard dependency versions -->
         <sakai.commons.lang.version>2.4</sakai.commons.lang.version>
