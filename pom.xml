@@ -100,7 +100,7 @@
         <sakai.ets.version>0.4.3</sakai.ets.version>
         <sakai.entitybroker.version>1.3.13</sakai.entitybroker.version>
         <sakai.jsf.version>2.7.5</sakai.jsf.version>
-        <sakai.msgcntr.version>2.7.0-rc03</sakai.msgcntr.version>
+        <sakai.msgcntr.version>2.7.0-rc04</sakai.msgcntr.version>
         <sakai.polls.version>1.3.6</sakai.polls.version>
         <sakai.profile.version>2.7.2</sakai.profile.version>
         <sakai.profile2.version>1.3.8</sakai.profile2.version>
