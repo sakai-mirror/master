@@ -834,7 +834,7 @@ This is not needed now that pluto have been released
       <dependency>
         <groupId>org.sakaiproject</groupId>
         <artifactId>sakai-search-api</artifactId>
-        <version>${sakai.version}</version>
+        <version>1.2.1-sakai26-SNAPSHOT</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
