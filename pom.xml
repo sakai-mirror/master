@@ -103,8 +103,8 @@
         <sakai.jsf.version>2.8.0-a02</sakai.jsf.version>
         <sakai.msgcntr.version>2.8.0-a02</sakai.msgcntr.version>
         <sakai.polls.version>1.4.0-a02</sakai.polls.version>
-        <sakai.profile.version>2.8.0-a01</sakai.profile.version>
-        <sakai.profile2.version>1.4.0-a01</sakai.profile2.version>
+        <sakai.profile.version>2.8.0-a02</sakai.profile.version>
+        <sakai.profile2.version>1.4.0-a02</sakai.profile2.version>
         <sakai.resetpass.version>2.8.0-a02</sakai.resetpass.version>
         <sakai.sakai-mock.version>2.8.0-a01</sakai.sakai-mock.version>
         <sakai.samigo.version>2.8.0-a02</sakai.samigo.version>
