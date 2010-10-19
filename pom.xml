@@ -95,12 +95,12 @@
         <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
         <!-- Sakai modules that are versioned separately -->
         <sakai.basiclti.version>1.3.0-a01</sakai.basiclti.version>
-        <sakai.common.version>1.1.0-a01</sakai.common.version>
+        <sakai.common.version>1.1.0-a02</sakai.common.version>
         <sakai.contentreview.version>2.8.1</sakai.contentreview.version>
-        <sakai.edu-services.version>1.1.0-a01</sakai.edu-services.version>
+        <sakai.edu-services.version>1.1.0-a02</sakai.edu-services.version>
         <sakai.ets.version>0.5.0-a01</sakai.ets.version>
         <sakai.entitybroker.version>1.4.0-a01</sakai.entitybroker.version>
-        <sakai.jsf.version>2.8.0-a01</sakai.jsf.version>
+        <sakai.jsf.version>2.8.0-a02</sakai.jsf.version>
         <sakai.msgcntr.version>2.8.0-a01</sakai.msgcntr.version>
         <sakai.polls.version>1.4.0-a01</sakai.polls.version>
         <sakai.profile.version>2.8.0-a01</sakai.profile.version>
