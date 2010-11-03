@@ -82,7 +82,6 @@
         <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
         <sakai.hibernate.artifactId>hibernate</sakai.hibernate.artifactId>
         <sakai.hibernate.version>3.2.7.ga</sakai.hibernate.version>
-        <sakai.genericdao.version>0.9.18</sakai.genericdao.version>
         <sakai.jcr.version>1.0</sakai.jcr.version>
         <sakai.pluto.version>1.1.7</sakai.pluto.version>
         <sakai.servletapi.version>2.4</sakai.servletapi.version>
