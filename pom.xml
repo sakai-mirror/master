@@ -94,25 +94,25 @@
         <sakai.xerces.impl.version>2.6.2</sakai.xerces.impl.version>
         <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
         <!-- Sakai modules that are versioned separately -->
-        <sakai.basiclti.version>1.3.0-a03</sakai.basiclti.version>
-        <sakai.common.version>1.1.0-a03</sakai.common.version>
-        <sakai.contentreview.version>2.8.1</sakai.contentreview.version>
-        <sakai.edu-services.version>1.1.0-a03</sakai.edu-services.version>
-        <sakai.ets.version>0.5.0-a02</sakai.ets.version>
+        <sakai.basiclti.version>1.3.0-a04</sakai.basiclti.version>
+        <sakai.common.version>1.1.0-a04</sakai.common.version>
+        <sakai.contentreview.version>2.8.2</sakai.contentreview.version>
+        <sakai.edu-services.version>1.1.0-a04</sakai.edu-services.version>
+        <sakai.ets.version>0.5.0-a03</sakai.ets.version>
         <sakai.entitybroker.version>1.4.0-a03</sakai.entitybroker.version>
-        <sakai.jsf.version>2.8.0-a03</sakai.jsf.version>
-        <sakai.msgcntr.version>2.8.0-a03</sakai.msgcntr.version>
-        <sakai.polls.version>1.4.0-a03</sakai.polls.version>
-        <sakai.profile.version>2.8.0-a03</sakai.profile.version>
-        <sakai.profile2.version>1.4.0-a03</sakai.profile2.version>
-        <sakai.resetpass.version>2.8.0-a02</sakai.resetpass.version>
-        <sakai.sakai-mock.version>2.8.0-a01</sakai.sakai-mock.version>
-        <sakai.samigo.version>2.8.0-a03</sakai.samigo.version>
-        <sakai.scheduler.version>2.8.0-a03</sakai.scheduler.version>
+        <sakai.jsf.version>2.8.0-a04</sakai.jsf.version>
+        <sakai.msgcntr.version>2.8.0-a04</sakai.msgcntr.version>
+        <sakai.polls.version>1.4.0-a04</sakai.polls.version>
+        <sakai.profile.version>2.8.0-a04</sakai.profile.version>
+        <sakai.profile2.version>1.4.0-a04</sakai.profile2.version>
+        <sakai.resetpass.version>2.8.0-a03</sakai.resetpass.version>
+        <sakai.sakai-mock.version>2.8.0-a02</sakai.sakai-mock.version>
+        <sakai.samigo.version>2.8.0-a04</sakai.samigo.version>
+        <sakai.scheduler.version>2.8.0-a04</sakai.scheduler.version>
         <sakai.search.version>1.3.0-a05</sakai.search.version>
-        <sakai.shortenedurl.version>1.0.0-a01</sakai.shortenedurl.version>
-        <sakai.sitestats.version>2.2.0-a04</sakai.sitestats.version>
-	    <sakai.webservices.version>1.0.0-a01</sakai.webservices.version>
+        <sakai.shortenedurl.version>1.0.0-a02</sakai.shortenedurl.version>
+        <sakai.sitestats.version>2.2.0-a05</sakai.sitestats.version>
+	    <sakai.webservices.version>1.0.0-a02</sakai.webservices.version>
         <!-- Set the source encoding to avoid maven warnings -->
 	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
     </properties>
