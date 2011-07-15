@@ -744,7 +744,7 @@
                 <scope>provided</scope>
             </dependency>
             <dependency>
-                <groupId>org.sakaiproject</groupId>
+                <groupId>org.sakaiproject.msgcntr</groupId>
                 <artifactId>messageforums-api</artifactId>
                 <version>${sakai.msgcntr.version}</version>
                 <scope>provided</scope>
