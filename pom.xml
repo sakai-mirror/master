@@ -101,7 +101,7 @@
         <sakai.entitybroker.version>1.3.18</sakai.entitybroker.version>
         <sakai.jsf.version>2.7.10</sakai.jsf.version>
         <sakai.msgcntr.version>2.7.5</sakai.msgcntr.version>
-        <sakai.polls.version>1.3.13</sakai.polls.version>
+        <sakai.polls.version>1.3.14</sakai.polls.version>
         <sakai.profile.version>2.7.5</sakai.profile.version>
         <sakai.profile2.version>1.3.16</sakai.profile2.version>
         <sakai.sakai-mock.version>2.7.5</sakai.sakai-mock.version>
