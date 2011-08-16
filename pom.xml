@@ -498,6 +498,14 @@
                 <version>${sakai.quartz.version}</version>
                 <scope>provided</scope>
             </dependency>
+            <!-- Do not delete the seemingly redundant quartz-1.5.2 entry.
+              A number of contrib tools still reference the old quartz <groupId>.   -->
+            <dependency>
+                <groupId>quartz</groupId>
+                <artifactId>quartz</artifactId>
+                <version>1.5.2</version>
+                <scope>provided</scope>
+            </dependency>
             <dependency>
                 <groupId>OKI</groupId>
                 <artifactId>OkiOSID</artifactId>
