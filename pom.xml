@@ -72,7 +72,7 @@
 
     <properties>
         <sakai.version>2.7.2</sakai.version>
-        <sakai.kernel.version>1.1.13</sakai.kernel.version>
+        <sakai.kernel.version>1.1.14</sakai.kernel.version>
         <!-- Standard dependency versions -->
         <sakai.commons.lang.version>2.4</sakai.commons.lang.version>
         <sakai.commons.fileupload.version>1.2.1</sakai.commons.fileupload.version>
@@ -95,21 +95,21 @@
         <sakai.xerces.impl.version>2.6.2</sakai.xerces.impl.version>
         <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
         <!-- Sakai modules that are versioned separately -->
-        <sakai.basiclti.version>1.1.8</sakai.basiclti.version>
-        <sakai.common.version>1.0.9</sakai.common.version>
-        <sakai.edu-services.version>1.0.12</sakai.edu-services.version>
-        <sakai.ets.version>0.4.7</sakai.ets.version>
-        <sakai.entitybroker.version>1.3.19</sakai.entitybroker.version>
-        <sakai.jsf.version>2.7.11</sakai.jsf.version>
-        <sakai.msgcntr.version>2.7.6</sakai.msgcntr.version>
-        <sakai.polls.version>1.3.15</sakai.polls.version>
-        <sakai.profile.version>2.7.6</sakai.profile.version>
-        <sakai.profile2.version>1.3.17</sakai.profile2.version>
-        <sakai.sakai-mock.version>2.7.6</sakai.sakai-mock.version>
-        <sakai.samigo.version>2.7.4</sakai.samigo.version>
-        <sakai.scheduler.version>2.7.8</sakai.scheduler.version>
-        <sakai.search.version>1.2.10</sakai.search.version>
-        <sakai.sitestats.version>2.1.10</sakai.sitestats.version>
+        <sakai.basiclti.version>1.1.9</sakai.basiclti.version>
+        <sakai.common.version>1.0.10</sakai.common.version>
+        <sakai.edu-services.version>1.0.13</sakai.edu-services.version>
+        <sakai.ets.version>0.4.8</sakai.ets.version>
+        <sakai.entitybroker.version>1.3.20</sakai.entitybroker.version>
+        <sakai.jsf.version>2.7.12</sakai.jsf.version>
+        <sakai.msgcntr.version>2.7.7</sakai.msgcntr.version>
+        <sakai.polls.version>1.3.16</sakai.polls.version>
+        <sakai.profile.version>2.7.7</sakai.profile.version>
+        <sakai.profile2.version>1.3.18</sakai.profile2.version>
+        <sakai.sakai-mock.version>2.7.7</sakai.sakai-mock.version>
+        <sakai.samigo.version>2.7.5</sakai.samigo.version>
+        <sakai.scheduler.version>2.7.9</sakai.scheduler.version>
+        <sakai.search.version>1.2.11</sakai.search.version>
+        <sakai.sitestats.version>2.1.11</sakai.sitestats.version>
     </properties>
     
     <distributionManagement>
