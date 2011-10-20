@@ -108,7 +108,7 @@
         <sakai.mailsender.version>1.7.0-a01</sakai.mailsender.version>
         <sakai.message.version>2.9.0-a01</sakai.message.version>
         <sakai.msgcntr.version>3.0.0-a01</sakai.msgcntr.version>
-        <sakai.portal.version>2.9-SNAPSHOT</sakai.portal.version>
+        <sakai.portal.version>2.9.0-a01</sakai.portal.version>
         <sakai.polls.version>1.5.0-a01</sakai.polls.version>
         <sakai.presence.version>2.9.0-a01</sakai.presence.version>
         <sakai.profile.version>2.9.0-a01</sakai.profile.version>
@@ -118,7 +118,7 @@
         <sakai.samigo.version>2.9.0-a01</sakai.samigo.version>
         <sakai.scheduler.version>2.9.0-a01</sakai.scheduler.version>
         <sakai.search.version>1.4.0-a01</sakai.search.version>
-        <sakai.site.version>2.9.0-a01</sakai.site.version>
+        <sakai.site.version>2.9.0-a02</sakai.site.version>
         <sakai.shortenedurl.version>1.1.0-a01</sakai.shortenedurl.version>
         <sakai.sitestats.version>2.3.0-a01</sakai.sitestats.version>
         <sakai.taggable.version>2.9.0-a01</sakai.taggable.version>
