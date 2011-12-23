@@ -95,7 +95,7 @@
         <sakai.basiclti.version>2.0.0-b01</sakai.basiclti.version>
         <sakai.calendar.version>2.9.0-b01</sakai.calendar.version>
         <sakai.common.version>1.2.0-b01</sakai.common.version>
-        <sakai.contentreview.version>2.9.2-SNAPSHOT</sakai.contentreview.version>
+        <sakai.contentreview.version>2.9.2-b01</sakai.contentreview.version>
         <sakai.courier.version>2.9.0-b01</sakai.courier.version>
         <sakai.edu-services.version>1.2.0-b01</sakai.edu-services.version>
         <sakai.ets.version>0.6.0-b01</sakai.ets.version>
