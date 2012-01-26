@@ -107,7 +107,7 @@
 		<sakai.polls.version>1.4.3</sakai.polls.version>
 		<sakai.profile.version>2.8.3</sakai.profile.version>
 		<sakai.profile2.version>1.4.5</sakai.profile2.version>
-		<sakai.resetpass.version>2.8.3</sakai.resetpass.version>
+		<sakai.resetpass.version>2.8.4</sakai.resetpass.version>
 		<sakai.sakai-mock.version>2.8.3</sakai.sakai-mock.version>
 		<sakai.samigo.version>2.8.3</sakai.samigo.version>
 		<sakai.scheduler.version>2.8.2</sakai.scheduler.version>
