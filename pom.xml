@@ -72,13 +72,13 @@
     
     <properties>
         <sakai.version>2.8-SNAPSHOT</sakai.version>
-        <sakai.kernel.version>1.2.6</sakai.kernel.version>
+        <sakai.kernel.version>1.2.7-SNAPSHOT</sakai.kernel.version>
         <!-- Standard dependency versions -->
         <sakai.commons.lang.version>2.5</sakai.commons.lang.version>
         <sakai.commons.fileupload.version>1.2.1</sakai.commons.fileupload.version>
         <sakai.ehcache.groupId>net.sf.ehcache</sakai.ehcache.groupId>
-        <sakai.ehcache.artifactId>ehcache</sakai.ehcache.artifactId>
-        <sakai.ehcache.version>1.6.1</sakai.ehcache.version>
+        <sakai.ehcache.artifactId>ehcache-core</sakai.ehcache.artifactId>
+        <sakai.ehcache.version>1.7.2</sakai.ehcache.version>
         <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
         <sakai.hibernate.artifactId>hibernate</sakai.hibernate.artifactId>
         <sakai.hibernate.version>3.2.7.ga</sakai.hibernate.version>
