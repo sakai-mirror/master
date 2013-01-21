@@ -150,8 +150,13 @@
             <name>Sakai Maven Repo</name>
             <layout>default</layout>
             <url>http://source.sakaiproject.org/maven2</url>
+            <releases>
+                <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </releases>
             <snapshots>
                 <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
         </repository>
         <repository>
@@ -159,8 +164,13 @@
             <name>Sakai Maven Repo</name>
             <layout>default</layout>
             <url>http://source.sakaiproject.org/maven2-snapshots</url>
+            <releases>
+                <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </releases>
             <snapshots>
                 <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
         </repository>
         <repository>
@@ -168,8 +178,13 @@
             <name>Maven Repository Switchboard</name>
             <layout>default</layout>
             <url>http://repo1.maven.org/maven2</url>
+            <releases>
+                <enabled>true</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
+            </releases>
             <snapshots>
                 <enabled>false</enabled>
+                <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
         </repository>
         <!--
