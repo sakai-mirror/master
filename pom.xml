@@ -169,7 +169,7 @@
                 <checksumPolicy>ignore</checksumPolicy>
             </releases>
             <snapshots>
-                <enabled>true</enabled>
+                <enabled>false</enabled>
                 <checksumPolicy>ignore</checksumPolicy>
             </snapshots>
         </repository>
