@@ -72,7 +72,7 @@
     
     <properties>
         <sakai.version>2.8-SNAPSHOT</sakai.version>
-        <sakai.kernel.version>1.2.8</sakai.kernel.version>
+        <sakai.kernel.version>1.2.9</sakai.kernel.version>
         <!-- Standard dependency versions -->
         <sakai.commons.lang.version>2.5</sakai.commons.lang.version>
         <sakai.commons.fileupload.version>1.2.1</sakai.commons.fileupload.version>
@@ -95,28 +95,28 @@
         <sakai.xerces.impl.version>2.6.2</sakai.xerces.impl.version>
         <sakai.xerces.api.version>2.6.2</sakai.xerces.api.version>
         <!-- Sakai modules that are versioned separately -->
-        <sakai.basiclti.version>1.3.5</sakai.basiclti.version>
-		<sakai.common.version>1.1.7</sakai.common.version>
-		<sakai.contentreview.version>2.8.7</sakai.contentreview.version>
-		<sakai.edu-services.version>1.1.6</sakai.edu-services.version>
-		<sakai.ets.version>0.5.6</sakai.ets.version>
-		<sakai.entitybroker.version>1.4.5</sakai.entitybroker.version>
-		<sakai.hybrid.version>1.1.7</sakai.hybrid.version>
-		<sakai.jsf.version>2.8.4</sakai.jsf.version>
-		<sakai.msgcntr.version>2.8.3</sakai.msgcntr.version>
-		<sakai.polls.version>1.4.4</sakai.polls.version>
-		<sakai.profile.version>2.8.4</sakai.profile.version>
-		<sakai.profile2.version>1.4.10</sakai.profile2.version>
-		<sakai.resetpass.version>2.8.6</sakai.resetpass.version>
-		<sakai.sakai-mock.version>2.8.4</sakai.sakai-mock.version>
-		<sakai.samigo.version>2.8.5</sakai.samigo.version>
-		<sakai.scheduler.version>2.8.3</sakai.scheduler.version>
-		<sakai.search.version>1.3.6</sakai.search.version>
-		<sakai.shortenedurl.version>1.0.5</sakai.shortenedurl.version>
-		<sakai.sitestats.version>2.2.3</sakai.sitestats.version>
-        <sakai.webservices.version>1.0.4</sakai.webservices.version>
-        <!-- Set the source encoding to avoid maven warnings -->
-	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+		<sakai.basiclti.version>1.3.6</sakai.basiclti.version>
+		<sakai.common.version>1.1.8</sakai.common.version>
+		<sakai.contentreview.version>2.8.8</sakai.contentreview.version>
+		<sakai.edu-services.version>1.1.7</sakai.edu-services.version>
+		<sakai.ets.version>0.5.7</sakai.ets.version>
+		<sakai.entitybroker.version>1.4.6</sakai.entitybroker.version>
+		<sakai.hybrid.version>1.1.8</sakai.hybrid.version>
+		<sakai.jsf.version>2.8.5</sakai.jsf.version>
+		<sakai.msgcntr.version>2.8.4</sakai.msgcntr.version>
+		<sakai.polls.version>1.4.5</sakai.polls.version>
+		<sakai.profile.version>2.8.5</sakai.profile.version>
+		<sakai.profile2.version>1.4.11</sakai.profile2.version>
+		<sakai.resetpass.version>2.8.7</sakai.resetpass.version>
+		<sakai.sakai-mock.version>2.8.5</sakai.sakai-mock.version>
+		<sakai.samigo.version>2.8.6</sakai.samigo.version>
+		<sakai.scheduler.version>2.8.4</sakai.scheduler.version>
+		<sakai.search.version>1.3.7</sakai.search.version>
+		<sakai.shortenedurl.version>1.0.6</sakai.shortenedurl.version>
+		<sakai.sitestats.version>2.2.4</sakai.sitestats.version>
+		<sakai.webservices.version>1.0.5</sakai.webservices.version>
+		<!-- Set the source encoding to avoid maven warnings -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
     </properties>
     
     <distributionManagement>
