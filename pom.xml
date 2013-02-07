@@ -98,40 +98,40 @@
         <sakairsf.components.version>0.7.5</sakairsf.components.version> 
         <sakairsf.version>0.7.7</sakairsf.version>
         <!-- Sakai modules that are versioned separately -->
-        <sakai.announcement.version>2.9.1-SNAPSHOT</sakai.announcement.version>
-        <sakai.assignment.version>2.9.1-SNAPSHOT</sakai.assignment.version>
-        <sakai.basiclti.version>2.0.1-SNAPSHOT</sakai.basiclti.version>
-        <sakai.calendar.version>2.9.1-SNAPSHOT</sakai.calendar.version>
-        <sakai.common.version>1.2.1-SNAPSHOT</sakai.common.version>
-        <sakai.contentreview.version>2.9.3-SNAPSHOT</sakai.contentreview.version>
-        <sakai.courier.version>2.9.1-SNAPSHOT</sakai.courier.version>
-        <sakai.edu-services.version>1.2.1-SNAPSHOT</sakai.edu-services.version>
-        <sakai.ets.version>0.6.1-SNAPSHOT</sakai.ets.version>
-        <sakai.entitybroker.version>1.5.1-SNAPSHOT</sakai.entitybroker.version>
-        <sakai.hybrid.version>1.2.1-SNAPSHOT</sakai.hybrid.version>
-        <sakai.jsf.version>2.9.1-SNAPSHOT</sakai.jsf.version>
-        <sakai.lessonbuilder.version>1.4.1-SNAPSHOT</sakai.lessonbuilder.version>
-        <sakai.mailarchive.version>2.9.1-SNAPSHOT</sakai.mailarchive.version>
-        <sakai.mailsender.version>1.7.2-SNAPSHOT</sakai.mailsender.version>
-        <sakai.message.version>2.9.1-SNAPSHOT</sakai.message.version>
-        <sakai.msgcntr.version>3.0.1-SNAPSHOT</sakai.msgcntr.version>
-        <sakai.portal.version>2.9.1-SNAPSHOT</sakai.portal.version>
-        <sakai.polls.version>1.5.1-SNAPSHOT</sakai.polls.version>
-        <sakai.presence.version>2.9.1-SNAPSHOT</sakai.presence.version>
-        <sakai.profile.version>2.9.1-SNAPSHOT</sakai.profile.version>
-        <sakai.profile2.version>1.5.1-SNAPSHOT</sakai.profile2.version>
-        <sakai.resetpass.version>2.9.1-SNAPSHOT</sakai.resetpass.version>
-        <sakai.sakai-mock.version>2.9.1-SNAPSHOT</sakai.sakai-mock.version>
-        <sakai.samigo.version>2.9.1-SNAPSHOT</sakai.samigo.version>
-        <sakai.scheduler.version>2.9.1-SNAPSHOT</sakai.scheduler.version>
-        <sakai.search.version>1.4.1-SNAPSHOT</sakai.search.version>
-        <sakai.site.version>2.9.1-SNAPSHOT</sakai.site.version>
-        <sakai.shortenedurl.version>1.1.1-SNAPSHOT</sakai.shortenedurl.version>
-        <sakai.sitestats.version>2.3.3-SNAPSHOT</sakai.sitestats.version>
-        <sakai.taggable.version>2.9.1-SNAPSHOT</sakai.taggable.version>
-        <sakai.velocity-tool.version>2.9.1-SNAPSHOT</sakai.velocity-tool.version>
-        <sakai.warehouse.version>2.9.1-SNAPSHOT</sakai.warehouse.version>
-	    <sakai.webservices.version>1.1.1-SNAPSHOT</sakai.webservices.version>
+        <sakai.announcement.version>2.9.2-SNAPSHOT</sakai.announcement.version>
+        <sakai.assignment.version>2.9.2-SNAPSHOT</sakai.assignment.version>
+        <sakai.basiclti.version>2.0.2-SNAPSHOT</sakai.basiclti.version>
+        <sakai.calendar.version>2.9.2-SNAPSHOT</sakai.calendar.version>
+        <sakai.common.version>1.2.2-SNAPSHOT</sakai.common.version>
+        <sakai.contentreview.version>2.9.4-SNAPSHOT</sakai.contentreview.version>
+        <sakai.courier.version>2.9.2-SNAPSHOT</sakai.courier.version>
+        <sakai.edu-services.version>1.2.2-SNAPSHOT</sakai.edu-services.version>
+        <sakai.ets.version>0.6.2-SNAPSHOT</sakai.ets.version>
+        <sakai.entitybroker.version>1.5.2-SNAPSHOT</sakai.entitybroker.version>
+        <sakai.hybrid.version>1.2.2-SNAPSHOT</sakai.hybrid.version>
+        <sakai.jsf.version>2.9.2-SNAPSHOT</sakai.jsf.version>
+        <sakai.lessonbuilder.version>1.4.2-SNAPSHOT</sakai.lessonbuilder.version>
+        <sakai.mailarchive.version>2.9.2-SNAPSHOT</sakai.mailarchive.version>
+        <sakai.mailsender.version>1.7.3-SNAPSHOT</sakai.mailsender.version>
+        <sakai.message.version>2.9.2-SNAPSHOT</sakai.message.version>
+        <sakai.msgcntr.version>3.0.2-SNAPSHOT</sakai.msgcntr.version>
+        <sakai.portal.version>2.9.2-SNAPSHOT</sakai.portal.version>
+        <sakai.polls.version>1.5.2-SNAPSHOT</sakai.polls.version>
+        <sakai.presence.version>2.9.2-SNAPSHOT</sakai.presence.version>
+        <sakai.profile.version>2.9.2-SNAPSHOT</sakai.profile.version>
+        <sakai.profile2.version>1.5.2-SNAPSHOT</sakai.profile2.version>
+        <sakai.resetpass.version>2.9.2-SNAPSHOT</sakai.resetpass.version>
+        <sakai.sakai-mock.version>2.9.2-SNAPSHOT</sakai.sakai-mock.version>
+        <sakai.samigo.version>2.9.2-SNAPSHOT</sakai.samigo.version>
+        <sakai.scheduler.version>2.9.2-SNAPSHOT</sakai.scheduler.version>
+        <sakai.search.version>1.4.2-SNAPSHOT</sakai.search.version>
+        <sakai.site.version>2.9.2-SNAPSHOT</sakai.site.version>
+        <sakai.shortenedurl.version>1.1.2-SNAPSHOT</sakai.shortenedurl.version>
+        <sakai.sitestats.version>2.3.4-SNAPSHOT</sakai.sitestats.version>
+        <sakai.taggable.version>2.9.2-SNAPSHOT</sakai.taggable.version>
+        <sakai.velocity-tool.version>2.9.2-SNAPSHOT</sakai.velocity-tool.version>
+        <sakai.warehouse.version>2.9.2-SNAPSHOT</sakai.warehouse.version>
+	    <sakai.webservices.version>1.1.2-SNAPSHOT</sakai.webservices.version>
         <!-- Set the source encoding to avoid maven warnings -->
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
 	<sakai.jdk.version>1.6</sakai.jdk.version> 
