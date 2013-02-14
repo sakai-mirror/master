@@ -130,7 +130,9 @@
         <sakai.sitestats.version>2.3.4-SNAPSHOT</sakai.sitestats.version>
         <sakai.taggable.version>2.9.2-SNAPSHOT</sakai.taggable.version>
         <sakai.velocity-tool.version>2.9.2-SNAPSHOT</sakai.velocity-tool.version>
+        <!--
         <sakai.warehouse.version>2.9.2-SNAPSHOT</sakai.warehouse.version>
+        -->
 	    <sakai.webservices.version>1.1.2-SNAPSHOT</sakai.webservices.version>
         <!-- Set the source encoding to avoid maven warnings -->
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
@@ -706,7 +708,7 @@
             <dependency>
                 <groupId>org.sakaiproject.warehouse</groupId>
                 <artifactId>sakai-warehouse-api</artifactId>
-                <version>${sakai.warehouse.version}</version>
+                <version>${sakai.version}</version>
                 <scope>provided</scope>
             </dependency>
             <dependency>
