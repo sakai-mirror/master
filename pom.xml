@@ -10,7 +10,7 @@
     <artifactId>master</artifactId>
     <packaging>pom</packaging>
     <name>Sakai Master</name>
-    <version>2.9-SNAPSHOT</version>
+    <version>2.9.3</version>
     
     <organization>
         <name>Sakai Project</name>
@@ -65,9 +65,9 @@
     </licenses>
     
     <scm>
-	<connection>scm:svn:https://source.sakaiproject.org/svn/master/branches/sakai-2.9.x-release</connection>
-        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/master/branches/sakai-2.9.x-release</developerConnection>
-        <url>https://source.sakaiproject.org/svn/master/branches/sakai-2.9.x-release</url>
+	<connection>scm:svn:https://source.sakaiproject.org/svn/master/tags/master-2.9.3</connection>
+        <developerConnection>scm:svn:https://source.sakaiproject.org/svn/master/tags/master-2.9.3</developerConnection>
+        <url>https://source.sakaiproject.org/svn/master/tags/master-2.9.3</url>
     </scm>
     
     <properties>
